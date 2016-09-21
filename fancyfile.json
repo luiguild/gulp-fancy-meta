@@ -1,0 +1,200 @@
+{
+    "title": {
+        "content": "",
+        "htmlAttributes": ""
+    },
+    "metas": {
+        "charset": "utf-8",
+        "httpEquiv": {
+            "cacheControl": [
+                "Public",
+                "Private",
+                "No-Cache",
+                "No-Store"
+            ],
+            "expires": "",
+            "contentSecurityPolicy": "",
+            "defaultStyle": "",
+            "refresh": ""
+        },
+        "languages": {
+            "language": [
+                "pt_BR"
+            ],
+            "defaultLanguage": [
+                "pt-BR"
+            ],
+            "availableLanguages": [
+                "pt-BR"
+            ]
+        },
+        "robots":[
+            "all",
+            "index",
+            "follow",
+            "noindex",
+            "nofollow",
+            "noarchive",
+            "nosnippet",
+            "noodp",
+            "noydir",
+            "noimageindex"
+        ],
+        "googlebot": [
+            "index",
+            "follow",
+            "noindex",
+            "nofollow",
+            "noarchive",
+            "nosnippet",
+            "noodp",
+            "noydir",
+            "noimageindex"
+        ],
+        "Slurp": [
+            "index",
+            "follow",
+            "noindex",
+            "nofollow",
+            "noarchive",
+            "nosnippet",
+            "noodp",
+            "noydir",
+            "noimageindex"
+        ],
+        "bingbot": [
+            "index",
+            "follow",
+            "noindex",
+            "nofollow",
+            "noarchive",
+            "nosnippet",
+            "noodp",
+            "noydir",
+            "noimageindex"
+        ],
+        "applicationName": "",
+        "description": "",
+        "keywords": [
+            ""
+        ],
+        "country": "br",
+        "copyright": "",
+        "author": "",
+        "replyTo": "",
+        "revisitAfter": "7 days",
+        "expires": "",
+        "coverage": "Worldwide",
+        "distribution": "Global",
+        "rating": [
+            "General",
+            "14 years",
+            "Mature"
+        ],
+        "url":{
+            "base": "",
+            "target": "_blank",
+            "canonical": ""
+        },
+        "og": {
+            "locale": "pt_BR",
+            "siteName": "",
+            "type": "website",
+            "title": "",
+            "description": "",
+            "url": "",
+            "image": "",
+            "imageType": "image/png",
+            "imageWidth": "800",
+            "imageHeight": "800"
+        },
+        "fb": {
+            "pageId": "",
+            "admins": ""
+        },
+        "twitter":{
+            "card": "summary_large_image",
+            "site": "",
+            "siteId": "",
+            "title": "",
+            "description": "",
+            "creator": "",
+            "creatorId": "",
+            "image": "",
+            "imageAlt": "",
+            "player": "",
+            "playerWidth": "",
+            "playerHeight": "",
+            "playerStream": "",
+            "appNameIphone": "",
+            "appIdIphone": "",
+            "appUrlIphone": "",
+            "appNameIpad": "",
+            "appIdIpad": "",
+            "appUrlIpad": "",
+            "appNameGooglePlay": "",
+            "appIdGooglePlay": "",
+            "appUrlGooglePlay": ""
+        },
+        "viewport": {
+            "width": "device-width",
+            "height": "device-height",
+            "initialScale": "1",
+            "maximumScale": "1",
+            "minimumScale": "",
+            "userScalable": ""
+        },
+        "webAppCapable": {
+            "ios": {
+                "appleMobileWebAppCapable": "yes",
+                "appleMobileWebAppTitle": "",
+                "appleMobileWebAppStatusBarStyle": "black"
+            },
+            "android": "yes"
+        },
+        "msApplication": {
+            "tileImage": "design/Icon-256-transp.png",
+            "tileColor": "#000"
+        },
+        "icons": {
+            "icon":[
+                ["192x192", "design/Icon-xxxhdpi.png"]
+            ],
+            "shortcutIcon":[
+                ["16x16", "design/Icon-16.png"],
+                ["32x32", "design/Icon-32.png"],
+                ["48x48", "design/Icon-mdpi.png"],
+                ["64x64", "design/Icon-32@2x.png"]
+            ],
+            "appleTouchIcon":[
+                ["57x57", "design/Icon.png"],
+                ["72x72", "design/Icon-72.png"],
+                ["114x114", "design/Icon@2x.png"],
+                ["120x120", "design/Icon-60@2x.png"],
+                ["144x144", "design/Icon-72@2x.png"],
+                ["152x152", "design/Icon-76@2x.png"]
+            ],
+            "appleTouchIconPrecomposed":[
+                ["57x57", "design/Icon.png"],
+                ["72x72", "design/Icon-72.png"],
+                ["76x76", "design/Icon-76.png"],
+                ["114x114", "design/Icon@2x.png"],
+                ["120x120", "design/Icon-60@2x.png"],
+                ["144x144", "design/Icon-72@2x.png"],
+                ["152x152", "design/Icon-76@2x.png"],
+                ["180x180", "design/Icon-60@3x.png"]
+            ]
+        },
+        "localization": {
+            "manifest": "locales/manifest.json"
+        },
+        "styles": [
+            ["stylesheet", "text/css", "http://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900,900italic"],
+            ["stylesheet", "text/css", "http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css"]
+        ],
+        "scripts": [
+            ["text/javascript", "utf-8", "libs/jquery-1.11.2.min.js"],
+            ["text/javascript", "utf-8", "libs/angular.min.min.js"]
+        ]
+    }
+}
