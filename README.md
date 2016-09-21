@@ -24,7 +24,7 @@ var gulpFancyMeta = require('gulp-fancy-meta');
 
 ///////////
 // TASK //
-///////////
+//////////
 gulp.task('fancyMeta', function() {
     return gulp.src('*.html')
     .pipe(gulpFancyMeta())
