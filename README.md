@@ -29,5 +29,4 @@ gulp.task('fancyMeta', function() {
 gulp.task('default', ['fancyMeta']);
 ```
 
-It's simple! :)
-Enjoy!
+And voilà! It's simple. Enjoy! :)
