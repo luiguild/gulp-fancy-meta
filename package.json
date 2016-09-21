@@ -5,6 +5,10 @@
   "main": "index.js",
   "keywords": [],
   "author": "Luigui Delyer",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luiguild/gulp-fancy-meta.git"
+  },
   "license": "MIT",
   "devDependencies": {
     "gulp-util": "^3.0.7",
