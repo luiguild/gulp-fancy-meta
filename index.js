@@ -230,6 +230,10 @@ var writeHeader = function (jsonData, writeHeadTag) {
     headContent += jsonData.metas.httpEquiv.defaultStyle ? metaTag + 'http-equiv="default-style"' + contentAttr + jsonData.metas.httpEquiv.defaultStyle + '">' : '';
     headContent += jsonData.metas.httpEquiv.refresh ? metaTag + 'http-equiv="refresh"' + contentAttr + jsonData.metas.httpEquiv.refresh + '">' : '';
 
+    headContent += jsonData.metas.verificationCodes.google ? metaTag + nameAttr + '"google-site-verification"' + contentAttr + jsonData.metas.verificationCodes.google + '">' : '';
+    headContent += jsonData.metas.verificationCodes.bing ? metaTag + nameAttr + '"msvalidate.01"' + contentAttr + jsonData.metas.verificationCodes.google + '">' : '';
+    headContent += jsonData.metas.verificationCodes.yandex ? metaTag + nameAttr + '"yandex-verification"' + contentAttr + jsonData.metas.verificationCodes.google + '">' : '';
+    
     headContent += jsonData.metas.languages.language ? metaTag + nameAttr + '"language"' + contentAttr + jsonData.metas.languages.language + '">' : '';
     headContent += jsonData.metas.languages.defaultLanguage ? metaTag + nameAttr + '"defaultLanguage"' + contentAttr + jsonData.metas.languages.defaultLanguage + '">' : '';
     headContent += jsonData.metas.languages.availableLanguages ? metaTag + nameAttr + '"availableLanguages"' + contentAttr + jsonData.metas.languages.availableLanguages + '">' : '';
