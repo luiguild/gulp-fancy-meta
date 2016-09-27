@@ -1,0 +1,26 @@
+{
+  "name": "gulp-fancy-meta",
+  "description": "An Gulp plugin to add and control easily all your HTML meta tag's in your static files, improve your SEO and save your dev time.",
+  "main": [
+    "index.js"
+    ],
+  "dependencies": {
+  },
+  "devDependencies": {
+    "gulp-util": "^3.0.7",
+    "read-data": "^0.3.0",
+    "through2": "^2.0.1",
+    "write": "^0.3.2"
+  },
+  "keywords": [
+  ],
+  "authors": [
+    "Luigui Delyer"
+  ],
+   "license": "MIT",
+   "homepage": "https://github.com/luiguild/gulp-fancy-meta",
+   "repository": {
+     "type": "git",
+     "url": "git+https://github.com/luiguild/gulp-fancy-meta.git"
+   }
+}
