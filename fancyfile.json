@@ -18,9 +18,9 @@
             "refresh": ""
         },
         "verificationCodes": {
-            "google: "",
-            "bing: "",
-            "yandex: "",
+            "google": "",
+            "bing": "",
+            "yandex": "",
         },
         "languages": {
             "language": [
