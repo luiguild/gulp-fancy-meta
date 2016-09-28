@@ -17,6 +17,11 @@
             "defaultStyle": "",
             "refresh": ""
         },
+        "verificationCodes": {
+            "google": "",
+            "bing": "",
+            "yandex": "",
+        },
         "languages": {
             "language": [
                 "pt_BR"
