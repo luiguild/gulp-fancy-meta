@@ -271,6 +271,7 @@ var writeHeader = function (jsonData, writeHeadTag) {
     headContent += jsonData.metas.og.imageHeight ? metaTag + propertyAttr + '"og:image:height"' + contentAttr + jsonData.metas.og.imageHeight + '">' : '';
 
     headContent += jsonData.metas.fb.pageId ? metaTag + propertyAttr + '"fb:page_id"' + contentAttr + jsonData.metas.fb.pageId + '">' : '';
+    headContent += jsonData.metas.fb.appId ? metaTag + propertyAttr + '"fb:app_id"' + contentAttr + jsonData.metas.fb.appId + '">' : '';
     headContent += jsonData.metas.fb.admins ? metaTag + propertyAttr + '"fb:admins"' + contentAttr + jsonData.metas.fb.admins + '">' : '';
 
     headContent += jsonData.metas.twitter.card ? metaTag + nameAttr + '"twitter:card"' + contentAttr + jsonData.metas.twitter.card + '">' : '';
