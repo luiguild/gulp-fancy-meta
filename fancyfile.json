@@ -114,6 +114,7 @@
             "imageHeight": "800"
         },
         "fb": {
+            "appId": "",
             "pageId": "",
             "admins": ""
         },
