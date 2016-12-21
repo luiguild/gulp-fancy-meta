@@ -195,12 +195,10 @@
             "manifest": "locales/manifest.json"
         },
         "styles": [
-            ["stylesheet", "text/css", "http://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900,900italic"],
-            ["stylesheet", "text/css", "http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css"]
+            ["stylesheet", "text/css", ""]
         ],
         "scripts": [
-            ["text/javascript", "utf-8", "libs/jquery-1.11.2.min.js"],
-            ["text/javascript", "utf-8", "libs/angular.min.min.js"]
+            ["text/javascript", "utf-8", ""]
         ]
     }
 }
